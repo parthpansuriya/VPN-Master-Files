@@ -7,6 +7,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "",
+      "locationflag": "us",
       "ip": "198.7.62.204"
 
     },
@@ -19,6 +20,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "California",
+      "locationflag": "us",
       "ip": "198.7.58.147"
 
     },
@@ -28,6 +30,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "Los Angeles",
+      "locationflag": "us",
       "ip": "195.123.241.152"
 
     },
@@ -38,6 +41,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "jp",
       "ip": "219.100.37.69"
 
     },
@@ -47,6 +51,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Osaka",
+       "locationflag": "jp",
       "ip": "219.100.37.27"
 
     },
@@ -56,6 +61,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+       "locationflag": "jp",
       "ip": "219.100.37.234"
 
     },
@@ -67,6 +73,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "ca",
       "ip": "96.49.33.201"
 
     },
@@ -75,7 +82,8 @@
       "file": "client\ndev tun2\nproto udp\nremote 192.99.37.222 25000\nremote ca222.vpnbook.com 25000\nresolv-retry infinite\nnobind\npersist-key\npersist-tun\nauth-user-pass\ncomp-lzo\nverb 3\ncipher AES-128-CBC\nfast-io\npull\nroute-delay 2\nredirect-gateway\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIDyzCCAzSgAwIBAgIJAKRtpjsIvek1MA0GCSqGSIb3DQEBBQUAMIGgMQswCQYD\nVQQGEwJDSDEPMA0GA1UECBMGWnVyaWNoMQ8wDQYDVQQHEwZadXJpY2gxFDASBgNV\nBAoTC3ZwbmJvb2suY29tMQswCQYDVQQLEwJJVDEUMBIGA1UEAxMLdnBuYm9vay5j\nb20xFDASBgNVBCkTC3ZwbmJvb2suY29tMSAwHgYJKoZIhvcNAQkBFhFhZG1pbkB2\ncG5ib29rLmNvbTAeFw0xMzA0MjQwNDA3NDhaFw0yMzA0MjIwNDA3NDhaMIGgMQsw\nCQYDVQQGEwJDSDEPMA0GA1UECBMGWnVyaWNoMQ8wDQYDVQQHEwZadXJpY2gxFDAS\nBgNVBAoTC3ZwbmJvb2suY29tMQswCQYDVQQLEwJJVDEUMBIGA1UEAxMLdnBuYm9v\nay5jb20xFDASBgNVBCkTC3ZwbmJvb2suY29tMSAwHgYJKoZIhvcNAQkBFhFhZG1p\nbkB2cG5ib29rLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyNwZEYs6\nWN+j1zXYLEwiQMShc1mHmY9f9cx18hF/rENG+TBgaS5RVx9zU+7a9X1P3r2OyLXi\nWzqvEMmZIEhij8MtCxbZGEEUHktkbZqLAryIo8ubUigqke25+QyVLDIBuqIXjpw3\nhJQMXIgMic1u7TGsvgEUahU/5qbLIGPNDlUCAwEAAaOCAQkwggEFMB0GA1UdDgQW\nBBRZ4KGhnll1W+K/KJVFl/C2+KM+JjCB1QYDVR0jBIHNMIHKgBRZ4KGhnll1W+K/\nKJVFl/C2+KM+JqGBpqSBozCBoDELMAkGA1UEBhMCQ0gxDzANBgNVBAgTBlp1cmlj\naDEPMA0GA1UEBxMGWnVyaWNoMRQwEgYDVQQKEwt2cG5ib29rLmNvbTELMAkGA1UE\nCxMCSVQxFDASBgNVBAMTC3ZwbmJvb2suY29tMRQwEgYDVQQpEwt2cG5ib29rLmNv\nbTEgMB4GCSqGSIb3DQEJARYRYWRtaW5AdnBuYm9vay5jb22CCQCkbaY7CL3pNTAM\nBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAKaoCEWk2pitKjbhChjl1rLj\n6FwAZ74bcX/YwXM4X4st6k2+Fgve3xzwUWTXinBIyz/WDapQmX8DHk1N3Y5FuRkv\nwOgathAN44PrxLAI8kkxkngxby1xrG7LtMmpATxY7fYLOQ9yHge7RRZKDieJcX3j\n+ogTneOl2w6P0xP6lyI6\n-----END CERTIFICATE-----\n</ca>\n<cert>\n-----BEGIN CERTIFICATE-----\nMIID6DCCA1GgAwIBAgIBATANBgkqhkiG9w0BAQUFADCBoDELMAkGA1UEBhMCQ0gx\nDzANBgNVBAgTBlp1cmljaDEPMA0GA1UEBxMGWnVyaWNoMRQwEgYDVQQKEwt2cG5i\nb29rLmNvbTELMAkGA1UECxMCSVQxFDASBgNVBAMTC3ZwbmJvb2suY29tMRQwEgYD\nVQQpEwt2cG5ib29rLmNvbTEgMB4GCSqGSIb3DQEJARYRYWRtaW5AdnBuYm9vay5j\nb20wHhcNMTMwNTA2MDMyMTIxWhcNMjMwNTA0MDMyMTIxWjB4MQswCQYDVQQGEwJD\nSDEPMA0GA1UECBMGWnVyaWNoMQ8wDQYDVQQHEwZadXJpY2gxFDASBgNVBAoTC3Zw\nbmJvb2suY29tMQ8wDQYDVQQDEwZjbGllbnQxIDAeBgkqhkiG9w0BCQEWEWFkbWlu\nQHZwbmJvb2suY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkTM/8E+JH\nCjskqMIwgYDrNCBTWZLa+qKkJjZ/rliJomTfVYwKwv1AHYYU6RHpCxS1qFp3BEKL\nvQlASuzycSv1FGnNiLmg94fqzzWdmjs1XWosnLqbOwxx2Ye/1WoakSHia0pItoZk\nxK7/fllm42+Qujri/ERGga5Cb/TfiP6pUQIDAQABo4IBVzCCAVMwCQYDVR0TBAIw\nADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRl\nMB0GA1UdDgQWBBTDr4BCNSdOEh+Lx6+4RRK11x8XcDCB1QYDVR0jBIHNMIHKgBRZ\n4KGhnll1W+K/KJVFl/C2+KM+JqGBpqSBozCBoDELMAkGA1UEBhMCQ0gxDzANBgNV\nBAgTBlp1cmljaDEPMA0GA1UEBxMGWnVyaWNoMRQwEgYDVQQKEwt2cG5ib29rLmNv\nbTELMAkGA1UECxMCSVQxFDASBgNVBAMTC3ZwbmJvb2suY29tMRQwEgYDVQQpEwt2\ncG5ib29rLmNvbTEgMB4GCSqGSIb3DQEJARYRYWRtaW5AdnBuYm9vay5jb22CCQCk\nbaY7CL3pNTATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZI\nhvcNAQEFBQADgYEAoDgD8mpVPnHUh7RhQziwhp8APC8K3jToZ0Dv4MYXQnzyXziH\nQbewJZABCcOKYS0VRB/6zYX/9dIBogA/ieLgLrXESIeOp1SfP3xt+gGXSiJaohyA\n/NLsTi/Am8OP211IFLyDLvPqZuqlh/+/GOLcMCeCrMj4RYxWstNxtguGQFc=\n-----END CERTIFICATE-----\n</cert>\n<key>\n-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQCkTM/8E+JHCjskqMIwgYDrNCBTWZLa+qKkJjZ/rliJomTfVYwK\nwv1AHYYU6RHpCxS1qFp3BEKLvQlASuzycSv1FGnNiLmg94fqzzWdmjs1XWosnLqb\nOwxx2Ye/1WoakSHia0pItoZkxK7/fllm42+Qujri/ERGga5Cb/TfiP6pUQIDAQAB\nAoGANX508WQf9nVUUFlJ8LUZnnr4U2sEr5uPPNbcQ7ImTZm8MiMOV6qo/ikesMw5\n8qCS+5p26e1PJWRFENPUVhOW9c07z+nRMyHBQzFnNAFD7TiayjNk1gz1oIXarceR\nedNGFDdWCwXh+nJJ6whbQn9ioyTg9aqScrcATmHQxTit0GECQQDR5FmwC7g0eGwZ\nVHgSc/bZzo0q3VjNGakrA2zSXWUWrE0ybBm2wJNBYKAeskzWxoc6/gJa8mKEU+Vv\nugGb+J/tAkEAyGSEmWROUf4WX5DLl6nkjShdyv4LAQpByhiwLjmiZL7F4/irY4fo\nct2Ii5uMzwERRvHjJ7yzJJic8gkEca2adQJABxjZj4JV8DBCN3kLtlQFfMfnLhPd\n9NFxTusGuvY9fM7GrXXKSMuqLwO9ZkxRHNIJsIz2N20Kt76+e1CmzUdS4QJAVvbQ\nWKUgHBMRcI2s3PecuOmQspxG+D+UR3kpVBYs9F2aEZIEBuCfLuIW9Mcfd2I2NjyY\n4NDSSYp1adAh/pdhVQJBANDrlnodYDu6A+a4YO9otjd+296/T8JpePI/KNxk7N0A\ngm7SAhk379I6hr5NXdBbvTedlb1ULrhWV8lpwZ9HW2k=\n-----END RSA PRIVATE KEY-----\n</key>",
       "username": "vpnbook",
       "password": "ezc7a3f",
-      "location": "",
+      "location": "",.
+      "locationflag": "ca",
       "ip": "192.99.37.222"
 
 
@@ -87,6 +95,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "Toronto",
+      "locationflag": "ca",
       "ip": "198.27.69.198"
 
     },
@@ -96,6 +105,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "Paris",
+      "locationflag": "fr",
       "ip": "37.187.158.97"
 
     },
@@ -106,6 +116,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "",
+      "locationflag": "fr",
       "ip": "94.23.57.8"
 
     },
@@ -116,6 +127,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "rs",
       "ip": "77.35.42.106"
 
     },
@@ -125,6 +137,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "th",
       "ip": "171.96.136.180"
     },
     {
@@ -133,6 +146,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "th",
       "ip": "184.82.108.107"
     },
 
@@ -142,6 +156,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "th",
       "ip": "61.98.220.135"
 
     },
@@ -152,6 +167,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "sk",
       "ip": "112.187.139.146"
 
     },
@@ -163,6 +179,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Hanoi",
+      "locationflag": "vn",
       "ip": "118.68.237.196"
 
     },
@@ -172,6 +189,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "vn",
       "ip": "14.241.119.9"
 
     },
@@ -182,6 +200,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
+      "locationflag": "nl",
       "ip": "217.12.209.107"
 
     },
@@ -194,6 +213,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
+      "locationflag": "sg",
       "ip": "5.34.177.155"
 
     },
@@ -204,6 +224,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
+      "locationflag": "ch",
       "ip": "45.90.57.207"
 
     },
@@ -213,6 +234,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
+      "locationflag": "cz",
       "ip": "195.123.246.210"
 
     },
@@ -225,6 +247,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "br",
       "ip": "189.73.250.174"
 
     },
@@ -238,6 +261,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "tw",
       "ip": "220.135.38.248"
 
     },
@@ -248,6 +272,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "tw",
       "ip": "114.34.97.1"
 
     },
@@ -258,6 +283,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Lima",
+      "locationflag": "pe",
       "ip": "190.43.170.100"
 
     },
@@ -268,6 +294,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "mx",
       "ip": "187.250.111.138"
 
     },
@@ -278,6 +305,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
+      "locationflag": "hk",
       "ip": "45.125.0.246"
 
     }
