@@ -7,7 +7,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "",
-      "locationflag": "us",
+      "countrycode": "us",
       "ip": "198.7.62.204"
 
     },
@@ -20,7 +20,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "California",
-      "locationflag": "us",
+      "countrycode": "us",
       "ip": "198.7.58.147"
 
     },
@@ -30,7 +30,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "Los Angeles",
-      "locationflag": "us",
+      "countrycode": "us",
       "ip": "195.123.241.152"
 
     },
@@ -41,7 +41,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "jp",
+      "countrycode": "jp",
       "ip": "219.100.37.69"
 
     },
@@ -51,7 +51,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Osaka",
-       "locationflag": "jp",
+      "countrycode": "jp",
       "ip": "219.100.37.27"
 
     },
@@ -61,7 +61,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-       "locationflag": "jp",
+      "countrycode": "jp",
       "ip": "219.100.37.234"
 
     },
@@ -73,7 +73,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "ca",
+      "countrycode": "ca",
       "ip": "96.49.33.201"
 
     },
@@ -83,7 +83,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "",
-      "locationflag": "ca",
+      "countrycode": "ca",
       "ip": "192.99.37.222"
 
     },
@@ -94,7 +94,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "Toronto",
-      "locationflag": "ca",
+      "countrycode": "ca",
       "ip": "198.27.69.198"
 
     },
@@ -104,7 +104,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "Paris",
-      "locationflag": "fr",
+      "countrycode": "fr",
       "ip": "37.187.158.97"
 
     },
@@ -115,7 +115,7 @@
       "username": "vpnbook",
       "password": "ezc7a3f",
       "location": "",
-      "locationflag": "fr",
+      "countrycode": "fr",
       "ip": "94.23.57.8"
 
     },
@@ -126,7 +126,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "rs",
+      "countrycode": "rs",
       "ip": "77.35.42.106"
 
     },
@@ -136,7 +136,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "th",
+      "countrycode": "th",
       "ip": "171.96.136.180"
     },
     {
@@ -145,7 +145,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "th",
+      "countrycode": "th",
       "ip": "184.82.108.107"
     },
 
@@ -155,7 +155,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "th",
+      "countrycode": "th",
       "ip": "61.98.220.135"
 
     },
@@ -166,7 +166,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "sk",
+      "countrycode": "sk",
       "ip": "112.187.139.146"
 
     },
@@ -178,7 +178,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Hanoi",
-      "locationflag": "vn",
+      "countrycode": "vn",
       "ip": "118.68.237.196"
 
     },
@@ -188,7 +188,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "vn",
+      "countrycode": "vn",
       "ip": "14.241.119.9"
 
     },
@@ -199,7 +199,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
-      "locationflag": "nl",
+      "countrycode": "nl",
       "ip": "217.12.209.107"
 
     },
@@ -212,7 +212,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
-      "locationflag": "sg",
+      "countrycode": "sg",
       "ip": "5.34.177.155"
 
     },
@@ -223,7 +223,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
-      "locationflag": "ch",
+      "countrycode": "ch",
       "ip": "45.90.57.207"
 
     },
@@ -233,7 +233,7 @@
       "username": "freevpn724",
       "password": "7sape0",
       "location": "",
-      "locationflag": "cz",
+      "countrycode": "cz",
       "ip": "195.123.246.210"
 
     },
@@ -246,13 +246,10 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "br",
+      "countrycode": "br",
       "ip": "189.73.250.174"
 
     },
-
-
-
 
     {
       "country": "Taiwan",
@@ -260,7 +257,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "tw",
+      "countrycode": "tw",
       "ip": "220.135.38.248"
 
     },
@@ -271,7 +268,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "tw",
+      "countrycode": "tw",
       "ip": "114.34.97.1"
 
     },
@@ -282,7 +279,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "Lima",
-      "locationflag": "pe",
+      "countrycode": "pe",
       "ip": "190.43.170.100"
 
     },
@@ -293,7 +290,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "mx",
+      "countrycode": "mx",
       "ip": "187.250.111.138"
 
     },
@@ -304,7 +301,7 @@
       "username": "vpn",
       "password": "vpn",
       "location": "",
-      "locationflag": "hk",
+      "countrycode": "hk",
       "ip": "45.125.0.246"
 
     }
